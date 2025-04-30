@@ -15,8 +15,11 @@ This repository provides resources to help you :
 **_Perform Inference with a YOLO Model_ :**\
 This involves using a pre-trained (already available) YOLO model to detect objects in new, unseen images or videos.
 
+[![ Open In Colab ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C_qHuzy5190pYMkN7C2FHRkN4P8n6nGv)
+
+
 **_Training a YOLO Model_ :**\
 This process allows the model to learn to detect new objects of interest that a pre-trained model is incapable of detecting.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb)
+[![ Open In Colab ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb)
 
