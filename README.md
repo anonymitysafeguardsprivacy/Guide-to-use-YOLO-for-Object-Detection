@@ -10,7 +10,7 @@ Object detection is a computer vision task that involves identifying and localiz
 
 ---
 
-This repository provides resources to help you:
+This repository provides resources to help you :
 
 **_Perform Inference with a YOLO Model_ :**\
 This involves using a pre-trained (already available) YOLO model to detect objects in new, unseen images or videos.
