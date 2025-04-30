@@ -18,3 +18,5 @@ This involves using a pre-trained (already available) YOLO model to detect objec
 **_Training a YOLO Model_ :**\
 This process allows the model to learn to detect new objects of interest that a pre-trained model is incapable of detecting.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb)
+
