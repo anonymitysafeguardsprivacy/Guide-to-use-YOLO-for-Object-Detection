@@ -12,7 +12,7 @@ Object detection is a computer vision task that involves identifying and localiz
 
 This repository provides resources to help you :
 
-**_Quick walkthrough on how to use Google Colab_ :**\
+**_Learn basic features of Google Colab_ :**\
 This tutorial will walk you through the basic features of Google Colab and show you how to get started with using them..
 
 [![ Open In Colab ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C_qHuzy5190pYMkN7C2FHRkN4P8n6nGv)
@@ -23,7 +23,7 @@ This involves using a pre-trained (already available) YOLO model to detect objec
 [![ Open In Colab ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C_qHuzy5190pYMkN7C2FHRkN4P8n6nGv)
 
 
-**_Training a YOLO Model_ :**\
+**_Train a YOLO Model_ :**\
 This process allows the model to learn to detect new objects of interest that a pre-trained model is incapable of detecting.
 
 [![ Open In Colab ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb)
